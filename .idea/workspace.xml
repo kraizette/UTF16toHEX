@@ -26,7 +26,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a109dfb-4e81-4e01-ab1c-5f3d4e360891" name="Default Changelist" comment="Add python project">
+    <list default="true" id="2a109dfb-4e81-4e01-ab1c-5f3d4e360891" name="Default Changelist" comment="TRY VCS">
+      <change afterPath="$PROJECT_DIR$/tohex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toutf16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,11 +37,46 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="create" />
+                    <option name="lastUsedInstant" value="1611509288" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1611509287" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="JupyterTrust" id="7bcfc71f-02e7-470c-90e2-320274020c48" />
   <component name="ProjectId" id="1nWXUgbgAnfYoXoedUwxskLc3Ut" />
@@ -89,8 +127,16 @@
       <workItem from="1611508125970" duration="51000" />
       <workItem from="1611508187343" duration="181000" />
       <workItem from="1611508447975" duration="253000" />
-      <workItem from="1611508809887" duration="300000" />
+      <workItem from="1611508809887" duration="1681000" />
     </task>
+    <task id="LOCAL-00001" summary="TRY VCS">
+      <created>1611509124593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611509124593</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +153,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -124,36 +170,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="321" y="97" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1611508458499">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="321" y="97" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720@0.0.1280.720" timestamp="1611508458499" />
-    <state width="1237" height="161" key="GridCell.Tab.0.bottom" timestamp="1611508047530">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state width="1237" height="161" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1611508047530" />
-    <state width="1237" height="161" key="GridCell.Tab.0.center" timestamp="1611508047530">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state width="1237" height="161" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1611508047530" />
-    <state width="1237" height="161" key="GridCell.Tab.0.left" timestamp="1611508047530">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state width="1237" height="161" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1611508047530" />
-    <state width="1237" height="161" key="GridCell.Tab.0.right" timestamp="1611508047530">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state width="1237" height="161" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1611508047530" />
-    <state x="29" y="4" key="SettingsEditor" timestamp="1611508558355">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="29" y="4" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1611508558355" />
-    <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611508196144">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1611508196144" />
+    <MESSAGE value="TRY VCS" />
+    <option name="LAST_COMMIT_MESSAGE" value="TRY VCS" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UTF16toHEX$main.coverage" NAME="main Coverage Results" MODIFIED="1611507886695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
