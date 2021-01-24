@@ -1,4 +1,10 @@
+import ConverterToHEX
+import ConverterToUTF16
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print("input string")
+    string = input()
+    result = ConverterToHEX.convert(string)
+    print(result)
+    result2 = ConverterToUTF16.convert(result)
+    print(result2)
